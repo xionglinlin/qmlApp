@@ -26,6 +26,7 @@ Item {
 
     StackLayout {
         anchors.top: tabbar.bottom
+        anchors.topMargin: 10
         anchors.left: parent.left
         anchors.right: parent.right
         anchors.bottom: parent.bottom
